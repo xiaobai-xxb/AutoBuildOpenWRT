@@ -5,6 +5,6 @@
 感谢 KFERMercer ：https://github.com/KFERMercer/OpenWrt-CI         
 感谢 P3TERX ：https://github.com/P3TERX/Actions-OpenWrt/         
   
-自动定制 Lean 的 Openwrt 源码固件
+自动定制 [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) 的 Openwrt 源码固件
 
 配置文件支持 4G USB 卡托 Hilink 模式
