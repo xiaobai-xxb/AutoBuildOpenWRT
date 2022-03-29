@@ -21,4 +21,4 @@ Turbo ACC
 TTYD    
 Netdata     
 支持 4G USB 卡托 Hilink 模式    
-支持ipv6    
+支持 ipv6    
