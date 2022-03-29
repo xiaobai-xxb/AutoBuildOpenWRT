@@ -7,4 +7,18 @@
   
 自动定制 [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) 的 Openwrt 源码固件
 
-配置文件支持 4G USB 卡托 Hilink 模式
+# 配置文件包含 packages
+Adbyby Plus+    
+ShadowsocksR Plus+    
+OpenClash   
+DDNS    
+MWAN3     
+Frpc/Frps     
+OpenVPN     
+ZeroTier    
+IPSec VPN Server    
+Turbo ACC     
+TTYD    
+Netdata     
+支持 4G USB 卡托 Hilink 模式    
+支持ipv6    
